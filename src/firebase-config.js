@@ -3,7 +3,7 @@ import { getDatabase } from '../node_modules/firebase/database';
 
 // authentication of my firebase instance.
 const firebaseConfig = {
-    databaseURL: "https://watersensor-felix-default-rtdb.firebaseio.com/"
+    databaseURL: ""
   };
 
   // Initialize Firebase
